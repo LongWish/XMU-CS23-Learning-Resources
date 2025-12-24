@@ -68,12 +68,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/DominateQ">
+            <img src="https://avatars.githubusercontent.com/u/185607963?v=4" width="100;" alt="DominateQ"/>
+            <br />
+            <sub><b>廖喻义</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/haiyu614">
             <img src="https://avatars.githubusercontent.com/u/173423917?v=4" width="100;" alt="haiyu614"/>
             <br />
             <sub><b>📝 Haiyu614</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jadeproheshan">
             <img src="https://avatars.githubusercontent.com/u/177654940?v=4" width="100;" alt="jadeproheshan"/>
